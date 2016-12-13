@@ -1,0 +1,17 @@
+#PHP Project
+	data\
+		data_houkokusyo.php<U>
+	db\
+		db_connecter.php<U>
+		select_houkokusyo.php
+		regist_houkokusyo.php<U>
+	input_houkokusyo.php<U>
+	validate_check.php<U>
+	houkokusyo_view.php<U>
+	output\
+		create_houkokusyo_excel.php<U>
+		create_houkokusyo_phpexcel_pdf.php<U>
+		create_houkokusyo_pdf.php<U>
+		pdf_driver.php<U>
+	houkokusyo_util.php<U>
+	input.php<U>
